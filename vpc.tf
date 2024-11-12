@@ -3,4 +3,4 @@ resource "aws_vpc" "eks_vpc" {
   tags = {
     Name = "eks-vpc"
   }
-}
+} 
